@@ -27,7 +27,7 @@ I’m a Computer Engineering student at La Salle Campus BCN, currently working a
   *A business promotion web app modernized from React to Next.js, integrating Payload CMS for streamlined content management and serving 50+ real customers.*  
   **Tech Stack:** Next.js, React, Tailwind CSS, Payload CMS, MongoDB, AWS S3 (Cloudflare R2), Netlify
 
-_I’m also interested in collaborating on open-source projects—feel free to reach out!_
+_I’m also interested in collaborating on open-source projects, feel free to reach out!_
 
 ## 📫 How to Reach Me
 
