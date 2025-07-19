@@ -39,4 +39,5 @@ _I’m also interested in collaborating on open-source projects, feel free to re
 
 _Looking forward to connecting and collaborating on exciting projects!_
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feli05&layout=compact)
 <img src="https://komarev.com/ghpvc/?username=feli05&color=brightgreen" alt="watching_count" />
