@@ -38,5 +38,3 @@ _I’m also interested in collaborating on open-source projects, feel free to re
 ---
 
 _Looking forward to connecting and collaborating on exciting projects!_
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feli05&layout=compact)
