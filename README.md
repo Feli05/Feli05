@@ -6,12 +6,13 @@ I’m a Computer Engineering student at La Salle Campus BCN, currently working a
 
 ## 🛠️ Skills
 
-- **Languages:** JavaScript, TypeScript, Python, C, Java, PHP  
-- **Frameworks & Libraries:** React, Next.js, Node.js, FastAPI, Flask, CodeIgniter, Payload CMS  
-- **Databases:** MongoDB, SQLite, PostgreSQL  
-- **Cloud Services:** AWS (Bedrock, ECS, EC2, S3)  
-- **Deployment & Hosting:** Netlify, Cloudflare, Vercel  
-- **Other:** REST APIs, Git, Docker, Agile/Scrum
+- **Languages:** JavaScript, TypeScript, Python, C, Java, PHP, SQL, Bash
+- **Web Frameworks:** React, Next.js, Node.js, FastAPI, Flask, CodeIgniter
+- **Databases:** MongoDB, SQLite, PostgreSQL, Neo4j, Supabase
+- **ML & Data:** scikit-learn, pandas, NumPy, LangChain
+- **Cloud & DevOps:** AWS (Bedrock, ECS, EC2, S3), Docker, Docker Compose, Git, Github Actions, Railway
+- **Deployment & Hosting:** Netlify, Vercel, Cloudflare
+- **CMS & Tools:** Payload CMS, REST APIs, Figma
 
 ## 📫 How to Reach Me
 
