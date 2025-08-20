@@ -21,5 +21,3 @@ I’m a Computer Engineering student at La Salle Campus BCN, currently working a
 - Website: [Portfolio](https://felitrejos.com/)
 
 ---
-
-_Looking forward to connecting and collaborating on exciting projects!_
