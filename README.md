@@ -2,17 +2,16 @@
 
 ## About Me
 
-I’m a Computer Engineering student at La Salle Campus BCN, currently working as a **MongoDB Intern – Industry Solutions**, where I build technical demos to showcase MongoDB’s capabilities across various industry-focused use cases.
+I’m a Computer Engineering student at La Salle Campus BCN. Ex @ MongoDB.
 
 ## 🛠️ Skills
 
 - **Languages:** JavaScript, TypeScript, Python, C, Java, PHP, SQL, Bash
 - **Web Frameworks:** React, Next.js, Node.js, FastAPI, Flask, CodeIgniter
-- **Databases:** MongoDB, SQLite, PostgreSQL, Neo4j, Supabase
-- **ML & Data:** scikit-learn, pandas, NumPy, LangChain
-- **Cloud & DevOps:** AWS (Bedrock, ECS, EC2, S3), Docker, Docker Compose, Git, Github Actions, Railway
-- **Deployment & Hosting:** Netlify, Vercel, Cloudflare
-- **CMS & Tools:** Payload CMS, REST APIs, Figma
+- **Databases:** MongoDB, SQLite, PostgreSQL, Supabase
+- **ML & Data:** scikit-learn, pandas, NumPy, LangChain, LangGraph
+- **Cloud & DevOps:** AWS (Bedrock, ECS, EC2, S3), Docker, Docker Compose, Git, Github Actions, Railway, Netlify, Vercel, Cloudflare
+- **CMS & Tools:** Payload CMS, REST APIs
 
 ## 📫 How to Reach Me
 
