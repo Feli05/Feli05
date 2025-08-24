@@ -1,4 +1,4 @@
-# Hi there, I’m Felipe Trejos 👋
+# Hi there, I’m Felipe 👋
 
 ## About Me
 
