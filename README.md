@@ -6,7 +6,7 @@ I’m a Computer Engineering student at La Salle Campus BCN. Ex @ MongoDB.
 
 ## 🛠️ Skills
 
-- **Languages:** JavaScript, TypeScript, Python, C, Java, PHP, SQL, Bash
+- **Languages:** JavaScript, TypeScript, Python, C, Java, PHP, SQL, Bash, Swift
 - **Web Frameworks:** React, Next.js, Node.js, FastAPI, Flask, CodeIgniter
 - **Databases:** MongoDB, SQLite, PostgreSQL, Supabase
 - **ML & Data:** scikit-learn, pandas, NumPy, LangChain, LangGraph
