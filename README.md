@@ -16,7 +16,6 @@ I’m a Computer Engineering student at La Salle Campus BCN. Ex @ MongoDB.
 ## 📫 How to Reach Me
 
 - LinkedIn: [felipe-trejos](https://www.linkedin.com/in/felipe-trejos-264186286)  
-- Email: felipetrejos.dev@gmail.com  
 - Website: [Portfolio](https://felitrejos.com/)
 
 ---
