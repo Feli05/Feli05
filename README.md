@@ -2,7 +2,7 @@
 
 ## About Me
 
-I’m a Computer Engineering student at La Salle Campus BCN. Ex @ MongoDB.
+I’m a Computer Engineering student at La Salle Campus BCN. Intern @ MongoDB.
 
 ## 🛠️ Skills
 
