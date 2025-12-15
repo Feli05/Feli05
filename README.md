@@ -19,3 +19,9 @@ I’m a Computer Engineering student at La Salle Campus BCN. Intern @ MongoDB.
 - Website: [Portfolio](https://felitrejos.com/)
 
 ---
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=feli05&layout=compact&theme=github_dark&langs_count=6"
+  />
+</p>
