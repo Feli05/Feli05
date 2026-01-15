@@ -1,21 +1,37 @@
-# Hi there, I’m Felipe 👋
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
 
-## About Me
+<td width="60%" valign="top">
 
-I’m a Computer Engineering student at La Salle Campus BCN. Intern @ MongoDB.
+<br>
 
-## 🛠️ Skills
+## Hi there, I’m Felipe 👋
 
-- **Languages:** JavaScript, TypeScript, Python, C, Java, PHP, SQL, Bash, Swift
-- **Web Frameworks:** React, Next.js, Node.js, FastAPI, Flask, CodeIgniter
-- **Databases:** MongoDB, SQLite, PostgreSQL, Supabase
-- **ML & Data:** scikit-learn, pandas, NumPy, LangChain, LangGraph
-- **Cloud & DevOps:** AWS (Bedrock, ECS, EC2, S3), Docker, Docker Compose, Git, Github Actions, Railway, Netlify, Vercel, Cloudflare
-- **CMS & Tools:** Payload CMS, REST APIs
+Computer Engineering student at **La Salle Campus BCN**  
+Intern @ **MongoDB**
 
-## 📫 How to Reach Me
+<br>
 
-- LinkedIn: [felipe-trejos](https://www.linkedin.com/in/felipe-trejos-264186286)  
-- Website: [Portfolio](https://felitrejos.com/)
+🔗 <a href="https://www.linkedin.com/in/felipe-trejos-264186286" style="text-decoration:none; color:#6e7681; font-weight:500;">LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://felitrejos.com" style="text-decoration:none; color:#6e7681; font-weight:500;">Portfolio</a>
 
----
+<br><br><br><br>
+
+**Systems · Cloud · Databases · ML tooling**
+
+<br><br>
+
+</td>
+
+<td width="40%" align="center" valign="middle">
+
+<img 
+  src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/5f6597b4-ff7c-4415-9272-d95759df842f"
+  width="520"
+/>
+
+</td>
+
+</tr>
+</table>
