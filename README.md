@@ -18,5 +18,3 @@ Intern @ **MongoDB**
 
 <sub><b>Product engineering · developer experience · system design</b></sub>  
 <sub>Focused on building maintainable, user-facing systems.</sub>
-
-<br clear="right" />
